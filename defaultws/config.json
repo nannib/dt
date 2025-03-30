@@ -1,0 +1,1 @@
+{"model": "llama3.2:latest", "embedder": "dbmdz/bert-base-italian-uncased", "chunk_size": 512, "top_k": 5, "temperature": 0.51, "system_prompt": "Sei Tecno IA un assistente esperto."}
